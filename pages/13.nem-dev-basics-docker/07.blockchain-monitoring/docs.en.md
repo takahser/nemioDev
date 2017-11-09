@@ -16,7 +16,7 @@ is regularly sending queries, even if activity of interest to the poller occured
 of this approach is limited. But its development is very easy and might be sufficient in most cases.
 
 The second way is subscribing to notifications from the NIS instance you connect to. This is done with websockets. This is the way it is 
-done in the NanoWallet. This is a cleaner approach, but is a bit more complex.
+done in the NanoWallet. This is the cleaner approach, but a bit more complex.
 
 ## Active monitoring: the polling approach
 
